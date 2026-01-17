@@ -2,7 +2,7 @@
 
 Aplicación web con frontend en React y backend en Node.js.
 
-## 📋 Requisitos Previos
+##  Requisitos Previos
 
 - Node.js
 - npm
