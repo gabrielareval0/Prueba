@@ -4,10 +4,10 @@ Aplicación web con frontend en React y backend en Node.js.
 
 ## 📋 Requisitos Previos
 
-- Node.js (versión 14 o superior)
-- npm o yarn
+- Node.js
+- npm
 
-## 🚀 Instalación
+##  Instalación
 
 ### 1. Clonar el repositorio
 ```bash
@@ -27,7 +27,7 @@ cd frontend
 npm install
 ```
 
-## 🏃‍♂️ Ejecución
+##  Ejecución
 
 ### Ejecutar el Backend
 
@@ -47,7 +47,7 @@ npm run dev
 
 El frontend estará disponible en `http://localhost:5173` (puerto por defecto de Vite).
 
-## 📦 Scripts Disponibles
+##  Scripts Disponibles
 
 ### Backend
 
@@ -60,7 +60,7 @@ El frontend estará disponible en `http://localhost:5173` (puerto por defecto de
 - `npm run preview` - Previsualiza la versión de producción
 - `npm run lint` - Ejecuta el linter de código
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 ### Backend
 - Node.js
@@ -72,7 +72,7 @@ El frontend estará disponible en `http://localhost:5173` (puerto por defecto de
 - Tailwind CSS 4.1.18
 - Lucide React (iconos)
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 ```
 PRUEBA/
 ├── backend/
@@ -99,7 +99,7 @@ PRUEBA/
     └── vite.config.js
 ```
 
-## 🔧 Desarrollo
+##  Desarrollo
 
 Para trabajar en el proyecto, se recomienda abrir dos terminales:
 
@@ -115,20 +115,9 @@ cd frontend
 npm run dev
 ```
 
-## 📝 Notas
+##  Notas
 
 - Asegúrate de que el backend esté ejecutándose antes de iniciar el frontend
 - Verifica que los puertos configurados no estén siendo utilizados por otras aplicaciones
 - Revisa el archivo `vite.config.js` si necesitas configurar el proxy para las peticiones al backend
 
-## 🤝 Contribución
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT.
